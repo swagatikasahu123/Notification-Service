@@ -1,6 +1,6 @@
 Live Deployment:
-API Base URL: https://notification-service-gqcl.onrender.com/api
-Swagger Docs: https://notification-service-gqcl.onrender.com/api-docs
+ API Base URL: https://notification-service-gqcl.onrender.com/api,
+ Swagger Docs: https://notification-service-gqcl.onrender.com/api-docs
 
 Features:
 - Send notifications via Email, SMS, or In-App
