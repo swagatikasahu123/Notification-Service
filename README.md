@@ -41,3 +41,7 @@ Assumptions Made:
 - RabbitMQ is assumed to be externally running and available.
 - Retry logic and queue monitoring are simplified.
 - Swagger base URL is hardcoded to the deployed Render URL.
+  
+![image](https://github.com/user-attachments/assets/44e7ca34-8ae1-4bc9-bd71-4588efd31c99)
+
+
