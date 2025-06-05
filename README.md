@@ -43,5 +43,11 @@ Assumptions Made:
 - Swagger base URL is hardcoded to the deployed Render URL.
   
 ![image](https://github.com/user-attachments/assets/44e7ca34-8ae1-4bc9-bd71-4588efd31c99)
+![image](https://github.com/user-attachments/assets/0736af88-23e5-4710-8fbf-fa8013f9a2ef)
+![image](https://github.com/user-attachments/assets/ac28a5de-16e7-4917-9c22-63d875004084)
+![image](https://github.com/user-attachments/assets/79e9fab0-5c6c-4ad5-8bd4-dcf6334124b7)
+![image](https://github.com/user-attachments/assets/dee998e9-d3f1-455e-bc24-679756d39260)
+![image](https://github.com/user-attachments/assets/d7c7a1b6-bfbc-4373-abf7-509a82dae0a3)
+![image](https://github.com/user-attachments/assets/bcac9ace-ee65-42a1-b7d3-a30cbe316cfc)
 
 
