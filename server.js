@@ -1,4 +1,3 @@
-// server.js
 import express from "express";
 import bodyParser from "body-parser";
 import dotenv from "dotenv";
@@ -27,11 +26,11 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: `http://localhost:${PORT}`,
+        url: "https://notification-service-gqcl.onrender.com", // ✅ Public URL for Render
       },
     ],
   },
-  apis: ["./routes/*.js"], // look in routes folder for JSDoc swagger comments
+  apis: ["./routes/*.js"], // Look in routes folder for JSDoc comments
 };
 
 const swaggerDocs = swaggerJsdoc(swaggerOptions);
@@ -42,6 +41,6 @@ app.use("/api", notificationRoutes);
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
-  console.log(`Swagger docs available at http://localhost:${PORT}/api-docs`);
+  console.log(`Server running on port ${PORT}`);
+  console.log(`Swagger docs available at https://notification-service-gqcl.onrender.com/api-docs`);
 });
